@@ -51,4 +51,46 @@ Double click in the icon File, and choose one some the pre-installed datasets.
 
 ![](images/iDatasetOrange.png)
 
-###
+### A little explorer
+
+#### Select or sort the dataset columns
+
+From widget *Data* add *Select Columns*:
+
+![](images/iSelectColumns.png)
+
+Double click in the icon and choose and order the columns that you're interested in *Features*, *Target* or *Meta Attributes*.
+
+![](images/iSelectColumns2.png)
+
+And with the widget *Data Table* we can visualize our dataset. There, the variables are ordered as *Target* (in dark grey) and *Feature* variables.
+
+![](images/iDataTable.png)
+
+#### Find the correlation between the variables.
+
+Choose the widget *Correlation* and connect it with the output of *Select Columns*.
+
+![](images/iCorrWF.png)
+
+How our target variable is *MEDV*, we're interested in seeing how the other variables are correlated with it.
+
+![](images/iCorrelation.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
