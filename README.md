@@ -18,3 +18,7 @@ Tutorial using [Orange Visual Programing](https://orange.biolab.si/) API.
 Now, you're in a blank canvas. In the left panel, you can see the widgets that you have installed in Orange. Search the Data widget, and choose the icon *File*, the icon will be added to the canvas.
 
 ![](images/iFile.png)
+
+Double click in the icon File, and choose one some the pre-installed datasets.
+
+![](images/iDatasetOrange.png)
