@@ -77,20 +77,10 @@ How our target variable is *MEDV*, we're interested in seeing how the other vari
 
 ![](images/iCorrelation.png)
 
+We can see the values are sorter, with a stronger correlation at the list top, and in the bottom the weaker. This feature is validated with a scatter plot. Here, we'll introduce a new widget, *Visualize*. Choose the option *Correlation*.
 
+![](images/iScatterPlot.png)
 
+Bellow, we see the workflow until now.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](images/iScatterPlotWF.png)
